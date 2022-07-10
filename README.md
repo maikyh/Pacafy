@@ -1,5 +1,6 @@
 # Pacafy #
 ![image](https://user-images.githubusercontent.com/98727536/178164996-d5d26fae-787d-4f5c-b249-66140922a5f3.png)
+![image](https://user-images.githubusercontent.com/98727536/178165020-70e8a8e4-8fde-4bd1-af84-7678e2603991.png)
 
 # Getting Started with Create React App
 
